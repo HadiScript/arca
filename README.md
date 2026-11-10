@@ -1,6 +1,7 @@
 # Arca — Homes in Lisbon, found with AI
 
 A real-estate marketplace concept for Lisbon and the coast, with an AI concierge and a preview of the upcoming mobile app.
+**Live demo:** https://hadiscript.github.io/arca/
 
 **Stack:** React 19 · TypeScript · Vite · GSAP + ScrollTrigger · Lenis · Anthropic SDK (Claude)
 
